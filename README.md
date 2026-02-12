@@ -48,12 +48,6 @@ A web application that lets you clone voices and have AI conversations using tho
 - Frontend: React
 - APIs: ElevenLabs (voice), Google Gemini (chat)
 
-## Documentation
-
-- [SETUP.md](./SETUP.md) - Detailed setup instructions
-- [API_KEYS.md](./API_KEYS.md) - How to get API keys
-- [DEPLOYMENT.md](./DEPLOYMENT.md) - Deployment guide
-- [PRICING.md](./PRICING.md) - Cost information
 
 ## License
 
